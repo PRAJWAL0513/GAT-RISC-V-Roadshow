@@ -33,13 +33,13 @@ Welcome to the *VSDSquadron Mini RISC-V Development Board* repository! This repo
 
 ---
 
-## 📖 Introduction
+##-📖 Introduction
 
 The *VSDSquadron Mini* is a compact and efficient RISC-V development board designed to simplify learning and development for students, hobbyists, and professionals. Whether you’re exploring embedded systems, developing firmware, or learning RISC-V architecture, the VSDSquadron Mini offers the ideal platform.
 
 ---
 
-## 📊 Technical Specifications
+##-📊 Technical Specifications
 
 | *Parameter*          | *Specification*         |
 |------------------------|---------------------------|
@@ -60,9 +60,9 @@ The *VSDSquadron Mini* is a compact and efficient RISC-V development board desig
 
 ---
 
-## 🛠 Getting Started
+##-🛠 Getting Started
 
-### Prerequisites
+###-Prerequisites
 
 Ensure the following tools and components are available before beginning:
 
@@ -91,7 +91,7 @@ Ensure the following tools and components are available before beginning:
 
 ---
 
-## ⚡ Board Setup
+##-⚡ Board Setup
 
 1. *Connect the Board*:
    - Use a USB Type-C cable to connect the VSDSquadron Mini to your computer.
@@ -104,7 +104,7 @@ Ensure the following tools and components are available before beginning:
 
 ---
 
-## 🖥 Programming Guide
+##-🖥 Programming Guide
 
 ### Basic Blink Example
 
@@ -132,7 +132,7 @@ int main(void) {
 ```
 Additional Programming Examples
 Refer to the Programming Guide for more examples, debugging techniques, and advanced programming patterns.
-📚 Resources
+##-📚 Resources
 Official Datasheet
 Setup Guide
 Community Chat
