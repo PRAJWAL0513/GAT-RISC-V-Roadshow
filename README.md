@@ -129,6 +129,7 @@ int main(void) {
         Delay_Ms(1000);
     }
 }
+```
 Additional Programming Examples
 Refer to the Programming Guide for more examples, debugging techniques, and advanced programming patterns.
 📚 Resources
